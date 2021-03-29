@@ -2,7 +2,7 @@ from setuptools import setup
 from setuptools import find_packages
 
 install_requires = [
-    'pygments==2.2.0',
+    'pygments==2.7.4',
     'prompt_toolkit==1.0.15',
     'gevent==1.2.2',
     'importlib==1.0.4',
